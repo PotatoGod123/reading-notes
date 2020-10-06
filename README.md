@@ -14,3 +14,27 @@
      
      
 [@github/codefellows](https://github.com/codefellows) Today I start into my programming journey.
+
+
+
+ 
+ 
+ ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
+
+
+
+> <!DOCTYPE html>
+
+> <html>
+  > <head>
+    > <title>Tab Title</title>
+    > <link rel="stylesheet" href="style.css">
+  > </head>
+
+#### What you see above is typical coding found in most if not all html coded sites. Notices how it works like a sentence, using special characters for grammer and spaces for punctuation and formatting. This all combines together to bring countless lines of codes to be processed by hardware and programms used all around the world in almost anything that involvles technology.
+
+ 
+
+
+
+
