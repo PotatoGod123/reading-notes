@@ -13,3 +13,15 @@
      
      
 [@github/codefellows](https://github.com/codefellows) Today I start into my programming journey.
+
+
+
+ 
+ 
+ ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
+
+
+
+
+
+
