@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/PotatoGod123/reading-notes)](https://repl.it/github/PotatoGod123/reading-notes)
 ## reading-notes
 
 # **Growth Mindset**
