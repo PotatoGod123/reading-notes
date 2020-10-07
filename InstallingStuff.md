@@ -1,8 +1,8 @@
 # Resourcers 
 
-[Set Up Guide](https://github.com/codefellows/setup-guide/blob/master/README.md)
-
-
+[Set Up Guide](https://github.com/codefellows/setup-guide/blob/master/README.md)  
+  
+  
 [Text/Code Editors](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 
