@@ -2,11 +2,12 @@
 ## Table of Contents for Reading
 - [Class 1: Growth Mindset](growthmindset.md)
 - [Class 2: Installation](InstallingStuff.md)
-
+- [Class 3:]()
 
 ## Table of Contents for Review
 - [Class 1 Review](class1_review.md)
 - [Class 2 Review](class2review.md)
+- [Class 3 Review]()
 
 
 
