@@ -11,4 +11,4 @@
  - code .  , this will bring up vs code
  
  ##Notes 
- - Always try to avoid merge conflicts with good communication and proper coding pulls 
+ - Always try to avoid merge conflicts with good communication and proper coding pull. Good comments about why the change was made after every a-c-p is a good coder ethic, this way it allows the coder to remember what they did when going back and looking at the changes they have made.
