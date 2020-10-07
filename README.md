@@ -1,7 +1,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/PotatoGod123/reading-notes)](https://repl.it/github/PotatoGod123/reading-notes)
 ## Table of Contents for Reading
 - [Class 1: Growth Mindset](growthmindset.md)
-- [Class 2: xxxx]()
+- [Class 2: Installation](InstallingStuff.md)
 
 
 ## Table of Contents for Review
