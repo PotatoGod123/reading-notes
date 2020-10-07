@@ -25,11 +25,11 @@
 
 > <!DOCTYPE html>
 
-> <html>
-  > <head>
-    > <title>Tab Title</title>
-    > <link rel="stylesheet" href="style.css">
-  > </head>
+>  <html>
+ >  <head>
+     <title>Tab Title</title>
+     <link rel="stylesheet" href="style.css">
+   </head>
 
 #### What you see above is typical coding found in most if not all html coded sites. Notices how it works like a sentence, using special characters for grammer and spaces for punctuation and formatting. This all combines together to bring countless lines of codes to be processed by hardware and programms used all around the world in almost anything that involvles technology.
 
