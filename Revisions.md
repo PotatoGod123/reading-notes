@@ -16,4 +16,4 @@
 
 - Always try to avoid merge conflicts with good communication and proper coding pull. Good comments about why the change was made after every a-c-p is a good coder ethic, this way it allows the coder to remember what they did when going back and looking at the changes they have made.
 
-[<===Back](README.MD)
+[<===Back](https://potatogod123.github.io/reading-notes/)
