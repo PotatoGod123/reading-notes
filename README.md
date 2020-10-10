@@ -4,14 +4,17 @@
 
 - [Class 1: Growth Mindset](growthmindset.md)
 - [Class 2: Installation](InstallingStuff.md)
-- [Class 3:Revision in the cloud](Revisions.md)
+- [Class 3: Revision in the cloud](Revisions.md)
 - [Class 4: HTML and Web Design](html.md)
+- [Class 5: CSS](css.md)
 
 ## Table of Contents for Review
 
 - [Class 1 Review](class1_review.md)
 - [Class 2 Review](class2review.md)
 - [Class 3 Review](class3_review.md)
+- [Class 4 Review](class4review.md)
+
 
 
 
