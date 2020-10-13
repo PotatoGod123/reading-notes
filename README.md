@@ -7,6 +7,7 @@
 - [Class 3: Revision in the cloud](Revisions.md)
 - [Class 4: HTML and Web Design](html.md)
 - [Class 5: CSS](css.md)
+- [Class 6: JS](js.md)
 
 ## Table of Contents for Review
 
@@ -14,7 +15,7 @@
 - [Class 2 Review](class2review.md)
 - [Class 3 Review](class3_review.md)
 - [Class 4 Review](class4review.md)
-
+- [Class 5 Review](class5review.md)
 
 
 
