@@ -23,10 +23,10 @@ The above is a line in JavaScript and hows how to use objest and methods.
 **write** - this the method/ or could be a property as well if chosen
 **('Text')** - this is the parameter, methods need information in this field in order to work
 
-<script></script> - When a browser comes across a script, it stops and loads the script and then checks if it needs to do anything. Scripts will come out on the page wherever you place it in the html file. Scripts can also affect loading times for pages.
+<script></script> - When a browser comes across a script, it stops and loads the script and then checks if it needs to do anything. Scripts will come out on the page wherever you place it in the html file. Scripts can also affect loading times for pages.  
 
 
 
 
-
+  
 [<== Back](README.md)
