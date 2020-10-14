@@ -16,6 +16,7 @@
 - [Class 3 Review](class3_review.md)
 - [Class 4 Review](class4review.md)
 - [Class 5 Review](class5review.md)
+- [Class 6 Review](class6review.md)
 
 
 
