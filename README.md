@@ -8,6 +8,7 @@
 - [Class 4: HTML and Web Design](html.md)
 - [Class 5: CSS](css.md)
 - [Class 6: JS](js.md)
+- [Class 7: Programming in Javascript](programmingwithjave.md)
 
 ## Table of Contents for Review
 
