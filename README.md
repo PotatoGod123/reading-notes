@@ -9,6 +9,7 @@
 - [Class 5: CSS](css.md)
 - [Class 6: JS](js.md)
 - [Class 7: Programming in Javascript](programmingwithjave.md)
+- [Class 8: Operators and Loops](Operatorsandloops.md)
 
 ## Table of Contents for Review
 
