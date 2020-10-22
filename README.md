@@ -4,7 +4,8 @@
 
 
 # 102   
-- [Class 1: Growth Mindset](growthmindset.md)
+
+- [Class 1: Growth Mindset](/growthmindset.md)
 - [Class 2: Installation](InstallingStuff.md)
 - [Class 3: Revision in the cloud](Revisions.md)
 - [Class 4: HTML and Web Design](html.md)
