@@ -5,27 +5,27 @@
 
 # 102   
 
-- [Class 1: Growth Mindset](/growthmindset.md)
-- [Class 2: Installation](InstallingStuff.md)
-- [Class 3: Revision in the cloud](Revisions.md)
-- [Class 4: HTML and Web Design](html.md)
-- [Class 5: CSS](css.md)
-- [Class 6: JS](js.md)
-- [Class 7: Programming in Javascript](programmingwithjave.md)
-- [Class 8: Operators and Loops](Operatorsandloops.md)
+- [Class 1: Growth Mindset](102/growthmindset.md)
+- [Class 2: Installation](102/InstallingStuff.md)
+- [Class 3: Revision in the cloud](102/Revisions.md)
+- [Class 4: HTML and Web Design](102/html.md)
+- [Class 5: CSS](102/css.md)
+- [Class 6: JS](102/js.md)
+- [Class 7: Programming in Javascript](102/programmingwithjave.md)
+- [Class 8: Operators and Loops](102/Operatorsandloops.md)
 
 ## Table of Contents for Review
 
-- [Class 1 Review](class1_review.md)
-- [Class 2 Review](class2review.md)
-- [Class 3 Review](class3_review.md)
-- [Class 4 Review](class4review.md)
-- [Class 5 Review](class5review.md)
-- [Class 6 Review](class6review.md)
+- [Class 1 Review](102/class1_review.md)
+- [Class 2 Review](102/class2review.md)
+- [Class 3 Review](102/class3_review.md)
+- [Class 4 Review](102/class4review.md)
+- [Class 5 Review](102/class5review.md)
+- [Class 6 Review](102/class6review.md)
 
 
 #  201 
-
+  
 
 
  
