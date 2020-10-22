@@ -40,4 +40,4 @@ function getArea(width, height) {
 For the information, you can used declaration like the example above. this is called a parameter.
 Or you can just specify real data like numbers.This would be an argument  
 
-[<== Back](README.md)
+[<== Back](../README.md)

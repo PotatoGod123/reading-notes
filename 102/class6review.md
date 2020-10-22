@@ -14,4 +14,4 @@ Example: var userName = promt('What is your name?');
 - **Boolean** - this can either be true or false. 1 or 0
 
 
-[<== Back](README.md)
+[<== Back](../README.md)

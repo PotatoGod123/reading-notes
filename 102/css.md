@@ -41,4 +41,4 @@ hsl, hsla - These are another color property, h stands for **HUE** which is expr
 hsla - is the same thing but with the a stands for **ALPHA** just like in rgba its vaulue is for transpearency expressed in 0.0-1.0.  
 
 
-[<== Back](README.md)
+[<== Back](../README.md)

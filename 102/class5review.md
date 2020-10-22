@@ -14,4 +14,4 @@ GUI color picker (RBG codes)
 
 [Cool website to pick colors](https://color.adobe.com/create/color-wheel)
 
-[<== Back](README.md)
+[<== Back](../README.md)
