@@ -14,7 +14,7 @@
 - [Class 7: Programming in Javascript](102/programmingwithjave.md)
 - [Class 8: Operators and Loops](102/Operatorsandloops.md)
 
-## Table of Contents for Review
+##### Table of Contents for Review
 
 - [Class 1 Review](102/class1_review.md)
 - [Class 2 Review](102/class2review.md)
@@ -25,7 +25,7 @@
 
 
 #  201 
-  
+
 
 
  
