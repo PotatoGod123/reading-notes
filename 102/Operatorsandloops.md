@@ -1,8 +1,9 @@
-# Operators
+# Operators  
+
 **==** - Is equal to  
 **!=** - is not equal to  
-warining, try not to use the two above, not safe or best practice.   
-**===**-strict equal to   
+warining, try not to use the two above, not safe or best practice.  
+**===**-strict equal to  
 **!==**-Strick not equal to  
 Always better to use strick equals operators!  
 **>**-greater than operator  
