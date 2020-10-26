@@ -93,4 +93,23 @@ function getArea(width, height) {
 For the information, you can used declaration like the example above. this is called a parameter.
 Or you can just specify real data like numbers.This would be an argument  
 
+
+
+
+
+
+## Notes  
+
+
+ CSS, html, and javaScript can be all on the same page but got put in different files due to separation of concerns 
+
+CSS
+*presentation
+
+html 
+*structure
+
+javaScript
+*interactivity
+
 [<== Back](../README.md)
