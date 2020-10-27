@@ -27,7 +27,7 @@
 # 201  
 
 - [Class 1](201/class1-01.md)  
-- [Class 2]()
+- [Class 2](201/class1-02.md)
 - [Class 3]()
 - [Class 4]()
 - [Class 5]()
