@@ -122,4 +122,26 @@ The above is an example and a common loop. you can use three keywords for a loop
 
 **+=** - Allows you to add the statement from it's past loops  
 
+
+## Class Note
+
+root|
+    | index.html
+    | README.md
+    |.eslintrc                            - the dot make the files hidden
+    |.gitignore                           - this will not push any files in here
+    |_____________ css
+                   |reset.css
+                   |styles.css
+    |
+    |______________js
+    |              |app.js
+    |              |
+    | 
+    |
+
+
+
+
+
 [<== Back](../README.md)
