@@ -124,9 +124,77 @@ positive and negative values well affect where it shows up
 
 border-radius: ; - this will round out the box or curve it depending what value you put in
 
-
+[Cheat Sheet for css](https://overapi.com/css)
 
 ## JAVASCRIPT
 
 
+### Arrays
 
+Arrays isn't just a regular varuable, it's a variable that can hold multiples values
+
+
+var colors; 
+colors = [ 'white','black','custom'];
+
+Each items in an array is automatically given an index[0] and keep ascending from there upwards starting with 0.
+
+index   value
+0       white
+1       black
+2       custom
+
+var colorChooser;
+colorChooser = colors[2]; 
+the output for this will be custom 
+
+var colorNumber;
+colorNumber = color.length;
+
+this will set colorNumber to be the numbers of items in the array  
+
+
+ ### Switches  
+
+var msg; 
+var level = 2;
+
+ switch(level){
+
+     case 1:
+           msg ='Good Luck on first';
+           break;
+     case 2:
+           msg =' Good luck on second';
+           break;
+     case 3:
+           msg ='Good luck on third';
+     deafult:
+           msg='Good luck';
+           break;
+ }
+
+ ### Loops  
+
+**for (var i=0; i<10; i++) {**
+    **documment.write(i);**
+**}**  
+
+**for**- The keyword  
+**(var i=0; i<10; i++)**- The condition(counter)  
+    - **var i=0;**- this is the initialization, sometimes you'll see it be made right before the loops is made  
+    - **i < 0**- this is the condition  
+    -**i++**- Update, Every time the loop runs the statement in the curly brackets it will add one to the counter  
+**{documment.write(i);}**- code to execute during loop  
+
+The above is an example and a common loop. you can use three keywords for a loop  
+    - **for**- Use this keyword if you need run a loop a certain amount of times since you can tell it to run how many times you need it to run.  
+    - **while**- If you do not know how many times it needs to run, use this keyword for a loop and it will keep looping till as long the condition is true.  
+    - **do while**- This is similar to while but it will run whatever is in the codeblock at least once even if the condition comes out false.  
+
+**+=** - Allows you to add the statement from it's past loops  
+
+
+
+
+[<==Back](../README.md)
