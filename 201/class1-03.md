@@ -11,13 +11,13 @@ In HTML there are three different types of list
 
 - Unordered list are list that begin with a bullet point
 
-<ul><li></li></ul> 
+```<ul><li></li></ul>```
 
 - Definition list are made up of a set of terms along with definitions for each of those terms
 
-<dl></dl> - This will make a definition list
-<dt></dt> - this is to contain the term being define
-<dd></dd> - this is to contain the definition of the term
+```<dl></dl> - This will make a definition list```
+```<dt></dt> - this is to contain the term being define```
+```<dd></dd> - this is to contain the definition of the term```
 
 You can nest a list inside another list
 
@@ -33,7 +33,7 @@ max-width: 10px 10% or 1.0;
 min-height:10px 10% or 1.0;
 max-height:10px 10% or 1.0;
 
-overflow: hidden/scroll;  - this property well either hide all overflowing text from the box size or make it into a scroll for the person to see the rest
+```overflow: hidden/scroll;```  - this property well either hide all overflowing text from the box size or make it into a scroll for the person to see the rest
 
 Border, Margin, and Padding are the three things in a box you can edit with css.
 
@@ -68,7 +68,7 @@ border-bottom-style
 
 
 same with color 
-border-color: top right bottom left
+```border-color: top right bottom left```
 
 padding allows control between the space of the content and the box it self
 
@@ -78,7 +78,7 @@ padding-bottom
 padding-left 
 
 Short hand version
-padding:top right bottom left;
+```padding:top right bottom left;```
 
 ### Margin
 
@@ -92,11 +92,11 @@ margin-left
 Short hand version
 margin: top right bottom left
 
-margin: 10px auto 10px auto;   - This will align the box to be right in the center of the page
+```margin: 10px auto 10px auto;```   - This will align the box to be right in the center of the page
 
 ### Display
 
-display: ;
+```display: ;```
 
 inline - this will cause a block-level element to act as an inline element 
 
@@ -108,21 +108,21 @@ none- this hides the elemnt from view
 
 ### Visibilty 
 
-visibility: ; - this allows you to hide boxes from users but it leaves a space where the lement would have been
+```visibility: ;``` - this allows you to hide boxes from users but it leaves a space where the lement would have been
 
 hidden - hides the element but shows a black space
 
 ### border-image
 
-border-image: url() 11 11 11 11 strech,repeat,round;
+```border-image: url() 11 11 11 11 strech,repeat,round;```
 
-box-shadow: -5px -5px #777777;
+```box-shadow: -5px -5px #777777;```
 
 positive and negative values well affect where it shows up
 
 ### border-radius
 
-border-radius: ; - this will round out the box or curve it depending what value you put in
+```border-radius: ;``` - this will round out the box or curve it depending what value you put in
 
 [Cheat Sheet for css](https://overapi.com/css)
 
@@ -134,8 +134,8 @@ border-radius: ; - this will round out the box or curve it depending what value 
 Arrays isn't just a regular varuable, it's a variable that can hold multiples values
 
 
-var colors; 
-colors = [ 'white','black','custom'];
+```var colors;``` 
+```colors = [ 'white','black','custom'];```
 
 Each items in an array is automatically given an index[0] and keep ascending from there upwards starting with 0.
 
@@ -144,22 +144,22 @@ index   value
 1       black
 2       custom
 
-var colorChooser;
-colorChooser = colors[2]; 
-the output for this will be custom 
+```var colorChooser;```
+```colorChooser = colors[2]; ```
+```the output for this will be custom ```
 
-var colorNumber;
-colorNumber = color.length;
+```var colorNumber;```
+```colorNumber = color.length;```
 
 this will set colorNumber to be the numbers of items in the array  
 
 
  ### Switches  
 
-var msg; 
-var level = 2;
+```var msg;```
+  ```var level = 2;```
 
- switch(level){
+   ```switch(level){```
 
      case 1:
            msg ='Good Luck on first';
@@ -172,7 +172,7 @@ var level = 2;
      deafult:
            msg='Good luck';
            break;
- }
+``` }```
 
  ### Loops  
 
