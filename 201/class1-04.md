@@ -88,7 +88,6 @@ Or you can just specify real data like numbers.This would be an argument
 
 ## Paired Programming
 
-    Having one person code while the other person talks and nagivagtes said person code can be extremely useful and coding effiently and writing excellent code than you would do alone.
-
+Having one person code while the other person talks and nagivagtes said person code can be extremely useful and coding effiently and writing excellent code than you would do alone.
 
 [<==Back](../README.md)
