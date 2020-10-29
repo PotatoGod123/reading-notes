@@ -54,3 +54,41 @@ clear: left; right; both; none; -- this can help control boxes selected by the s
 
 using the overflow:auto; and width:100%; can help with a parents of floated elements problem
 
+Using pixels measure will usually make a website be more fixed in the way it appears while using percent will make it more liquid and fit to any size of the browser
+
+keep pages within 960-1000 pixels wide and show what the main site is about within the top 600 pixels;
+
+## JavaScript
+
+
+### Functions
+
+Functions let you group a series of statements together to perform  a specific task. If different parts of a script repeat the same task, you can reuse the function(rather than repating the same set of statements)
+
+```function sayHello() {**```
+```  document.write('Hello!');```
+```}```
+
+```function```- this is the function keyword
+```sayHello```- this is the function name, sometimes called the identifier
+```{}```- this is where the code goes and is called the code block. Always in curly braces
+
+To call on this function you would simply type
+```sayHello();```
+this is know as calling the function
+
+Sometimes the function needs information for the code block inside to work. You specify the information the parameters
+
+```function getArea(width, height) {```
+```   return width * height;```
+```}```
+
+For the information, you can used declaration like the example above. this is called a parameter.
+Or you can just specify real data like numbers.This would be an argument  
+
+## Paired Programming
+
+    Having one person code while the other person talks and nagivagtes said person code can be extremely useful and coding effiently and writing excellent code than you would do alone.
+
+
+[<==Back](../README.md)
