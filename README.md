@@ -30,7 +30,7 @@
 - [Class 2](201/class1-02.md)
 - [Class 3](201/class1-03.md)
 - [Class 4](201/class1-04.md)
-- [Class 5]()
+- [Class 5](201/class1-05.md)
 - [Class 6]()
 - [Class 7]()
 - [Class 8]()
