@@ -28,3 +28,5 @@ Essential is making a conceptual model in code for a specific problem, usually u
 Funcstions allow you to group a set of related statements together that represent a single task. Functions can also take parameters(information required to do thier job) and may return a value.  
 An object is a series of variables and functions of variables and functions that represet something from the world around you. In an object, variables are know as properties of the object; functions are know as methods of the object. Web browsers implement objects that represent both the browser window and the document loaded into the browser window. JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts.  
 Arrays and object can be used to create complex data sets(and both can contain the other!!)
+
+[<==Back](../README.md)
