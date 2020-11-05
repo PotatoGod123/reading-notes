@@ -26,7 +26,7 @@
 
 # 201  
 
-- [Class 1](201/class1-01.md)  
+- [Class 1: HTML,CSS,JavaScript](201/class1-01.md)  
 - [Class 2](201/class1-02.md)
 - [Class 3](201/class1-03.md)
 - [Class 4](201/class1-04.md)
@@ -34,7 +34,7 @@
 - [Class 6](201/class2-01.md)
 - [Class 7](201/class2-02.md)
 - [Class 8](201/class2-03.md)
-- [Class 9]()
+- [Class 9](201/class2-04.md)
 - [Class 10]()
 - [Class 11]()
 - [Class 12]()
