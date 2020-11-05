@@ -26,7 +26,7 @@ CALLBACK function - a function that is an arguament to another function
 By default, an event listener will hear everything in its children element
 
 
-
+```javascript
 function bananas(event){
   event.preventDefault();
 
@@ -38,5 +38,7 @@ function bananas(event){
 }
 
 formElement.addEventListner('submit',bananas);
+```
+
 
 [<==Back](../README.md)
