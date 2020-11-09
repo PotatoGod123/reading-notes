@@ -41,4 +41,17 @@ Using the :hover and :active after a selctor allows you to change the style of i
 Search engine optimization(SEO) helps visitors find your sites when using search engines. Analytics tools such as Google Analytics allow you to see how many people visit your site, how they find it, and what they do when they get there. To put your site on the web, you will need to obtain a domain name and web hosting. FTP programs allow you to transfer files from your local computer to your web server. Many companies provide platforms for blogging, email newsletters,  e-commerce and other popular website tools ( to save you writing them from scratch).
 
 
+
+
+## HTML
+
+
+### Audio
+
+
+```HTML
+<audio id="birds" src="cartoon-birds-2_daniel.mp3">
+```
+
+
 [<==Back](../README.md)
