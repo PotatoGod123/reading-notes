@@ -38,7 +38,7 @@
 - [Class 10](201/class2-05.md)
 - [Class 11](201/class3-01.md)
 - [Class 12](201/class3-02.md)
-- [Class 13]()
+- [Class 13](201/class3-03.md)
 - [Class 14]()
 - [Class 15]()  
  
