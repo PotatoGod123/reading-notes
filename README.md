@@ -39,7 +39,7 @@
 - [Class 11](201/class3-01.md)
 - [Class 12](201/class3-02.md)
 - [Class 13](201/class3-03.md)
-- [Class 14]()
+- [Class 14](201/class3-04.md)
 - [Class 15]()  
  
 ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
