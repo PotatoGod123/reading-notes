@@ -44,6 +44,7 @@
 # 301
 
 -[Class 1: Responsive WEB DESIGN and FLOATS](301/class1.md)
+-[Class 2: jQuery,DOM, and Events. Pair Progamming](301/class2.md)
  
 ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
 
