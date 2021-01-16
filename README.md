@@ -51,7 +51,8 @@
 - [Class 6: Node.js](./301/class6.md)  
 - [Class 7: REST and API](./301/class7.md)
 - [Class 8: SQL](./301/class8.md)
-- [Class 9: FUNCTIONAL PROGRAMMING](./301/class9.md)  
+- [Class 9: FUNCTIONAL PROGRAMMING](./301/class9.md)
+- [Class 11:EJS](./301/class11.md)  
 
 ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
 
