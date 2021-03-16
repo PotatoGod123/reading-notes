@@ -57,6 +57,13 @@
 - [Class 13: SQL Sending and retrieving Data](./301/class13.md)
 - [Class 14: SQL Normalization](./301/class14.md)
 
+
+
+# 401 Java
+
+-[Pre-work](./401/prework.md)  
+
+
 ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
 
 
