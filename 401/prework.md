@@ -33,4 +33,28 @@ Essentially success is that human emotions are a huge factor to living a success
 
 ## Imposter Symdrome 
 
-Essentially a feeling that you aren't actually qualified enough for whatver job or task you are doing. Easy way is to not be bother by it, everyone has to start somewhere  as long as you know what you are doing then you're fine.
+Essentially a feeling that you aren't actually qualified enough for whatver job or task you are doing. Easy way is to not be bother by it, everyone has to start somewhere  as long as you know what you are doing then you're fine.  
+
+# Terminal Practice
+
+## The Command Line  
+
+A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.Within a terminal you have what is known as a shell. This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you.  
+
+## Basic Navigation  
+
+pwd or Print Working Directory, tells you what your current working directory is.  The command for this task is ls or list, show all all items in directory or whatever ls option and location you specify.2 types of paths we can use, absolute and relative.  cd which stands for change directory lets you move around the current directory your terminal is in.  
+
+## More About Files  
+
+With linux is that under the hood, everything is actually a file. There hidden files in directory which you can access or see with -a when using ls. Each files has an extension at the end declaring what type it is and how to be read because of that type.  
+
+## Manual Pages  
+
+Manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept, essentially a way to look at commands of what you can do and what it does.It is possible to do a keyword search on the Manual pages.  
+
+## File Manipulation  
+
+mkdir will make a new folder and path to it. rmdir will remove said directory as well. touch is used to make a whole new file. cd will copy a file of your choosing with a new name of your choosing. mv will move the file to which directory you specify. rm will remove a file.  
+
+This is a cheat sheet [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)  
