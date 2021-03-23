@@ -58,3 +58,5 @@ Manual pages are a set of pages that explain every command available on your sys
 mkdir will make a new folder and path to it. rmdir will remove said directory as well. touch is used to make a whole new file. cd will copy a file of your choosing with a new name of your choosing. mv will move the file to which directory you specify. rm will remove a file.  
 
 This is a cheat sheet [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)  
+
+[<==Back](../README.md)  
