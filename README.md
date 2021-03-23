@@ -60,7 +60,7 @@
 # 401 Java
 
 -[Pre-work](./401/prework.md)  
--[Class 1: Java Basics](./401/javaBasics.md)
+-[Class 1: Java Basics](./401/javaBasics.md)  
 -[Class 2: Arrays,Loops,Imports](./401/arraysLoopsImports)
 
 ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
