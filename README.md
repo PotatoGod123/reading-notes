@@ -61,21 +61,29 @@
 
 -[Pre-work](./401/prework.md)  
 -[Class 1: Java Basics](./401/javaBasics.md)  
--[Class 2: Arrays,Loops,Imports](./401/arraysLoopsImports.md)
--[Class 3: Maps,primitives,File I/O](./401/javaclass3.md)  
+-[Class 2: Arrays,Loops,Imports](./401/arraysLoopsImports.md)  
+-[Class 3: Maps,primitives,File I/O](./401/javaclass3.md)
+-[Class 4: Class,Objects,OPP](./401/class4.md)  
+-[Class 5: Linked List](./401/javaclass5.md)  
+
 
 
 ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
 
 ```HTML
-> <!DOCTYPE html>
+ <!DOCTYPE html>
 
->  <html>  
- >  <head>  
- >  <title>Tab Title</title>
-  >   <link rel="stylesheet" href="style.css">
-  >   </head>  
-  
+ <html>  
+  <head>  
+    <title>Tab Title</title>
+     <link rel="stylesheet" href="style.css">
+  </head>
+    <body>
+      <header></header>
+      <main></main>
+      <footer></footer>
+    </body>  
+ </html> 
 ```
 
 #### What you see above is typical coding found in most if not all html coded sites. Notices how it works like a sentence, using special characters for grammer and spaces for punctuation and formatting. This all combines together to bring countless lines of codes to be processed by hardware and programms used all around the world in almost anything that involvles technology  
