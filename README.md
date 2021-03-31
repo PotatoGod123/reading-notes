@@ -66,6 +66,7 @@
 -[Class 4: Class,Objects,OPP](./401/class4.md)  
 -[Class 5: Linked List](./401/javaclass5.md)  
 -[Class 6: Inheritance and Interfaces](./401/class06.md)  
+-[Class 8: OO Design](./401/class08.md)  
 
 
 ### If you're new to this whole coding scene then it may seem very overwhelming and a hard concept to understand which is okay. Just think of it like learning a new languege. You just have to get familiar with the concepts and wordings.  
